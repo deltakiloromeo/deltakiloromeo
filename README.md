@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deltakiloromeo
-- 👀 I’m interested in Arduino programming related with audio production, various MIDI controller
-- 🌱 I’m currently learning on creating MIDI transport controller
+- 👀 I’m interested in Arduino & ESP8266 programming related with audio production, various MIDI controller and smart home devices
+- 🌱 I’m currently learning on creating MIDI transport controller & smart home on OpenHAB
 
 <!---
 deltakiloromeo/deltakiloromeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
